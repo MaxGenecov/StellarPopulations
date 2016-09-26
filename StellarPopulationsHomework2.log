@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.2)  13 SEP 2016 14:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.2)  25 SEP 2016 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -202,25 +202,40 @@ e
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<threealphas.png, id=14, 578.16pt x 433.62pt>
+File: threealphas.png Graphic file (type png)
+ <use threealphas.png>
+Package pdftex.def Info: threealphas.png used on input line 84.
+(pdftex.def)             Requested size: 361.34999pt x 271.01183pt.
+
+<ComparingIMFs.png, id=16, 578.16pt x 433.62pt>
+File: ComparingIMFs.png Graphic file (type png)
+ <use ComparingIMFs.png>
+Package pdftex.def Info: ComparingIMFs.png used on input line 88.
+(pdftex.def)             Requested size: 361.34999pt x 271.01183pt.
+
+[2 <./threealphas.png>] [3 <./ComparingIMFs.png>]
 (./StellarPopulationsHomework2.aux) ) 
 Here is how much of TeX's memory you used:
- 2158 strings out of 494985
- 28897 string characters out of 6180357
- 84475 words of memory out of 5000000
- 5362 multiletter control sequences out of 15000+600000
+ 2169 strings out of 494985
+ 29099 string characters out of 6180357
+ 86475 words of memory out of 5000000
+ 5370 multiletter control sequences out of 15000+600000
  7656 words of font info for 28 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 37i,4n,23p,350b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,5n,23p,587b,124s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb>
-Output written on StellarPopulationsHomework2.pdf (1 page, 52797 bytes).
+onts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on StellarPopulationsHomework2.pdf (3 pages, 180898 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
